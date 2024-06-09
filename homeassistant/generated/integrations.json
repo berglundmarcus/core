@@ -630,6 +630,12 @@
       "config_flow": false,
       "iot_class": "local_polling"
     },
+    "bess": {
+      "name": "TB Tech BESS",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "bge": {
       "name": "Baltimore Gas and Electric (BGE)",
       "integration_type": "virtual",
